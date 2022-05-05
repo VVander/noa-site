@@ -1,0 +1,25 @@
+body {
+  background-image: url("bamboo-bg.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: contain;
+  height: 99%;
+  min-height: 98vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.notice {
+  font-family: 'Nanum Gothic', sans-serif;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: #336600;
+  border: 5px solid #88aa00;
+  background-color: white;
+  width: 350px;
+  height: 150px;
+}

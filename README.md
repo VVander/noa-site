@@ -1,2 +1,2 @@
-# noa-site
-Node Operator Association website
+# Node Operator Association website
+This is the NOA's website.
